@@ -1,0 +1,5 @@
+John Lennon 555-5555 frontman@beatles.com
+Ringo Starr 456-123-7890 drums@beatles.com
+Paul McCartney 123-456-7890 newband@wings.com
+George Harrison 789-654-4321 aguy@beatles.com
+Stevie Wonder 543-678-0631 adude@music.gov
