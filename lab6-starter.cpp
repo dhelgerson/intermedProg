@@ -1,3 +1,9 @@
+/*
+Name: Drew Helgerson    NetID: tah568
+Date: 1/10/24           Due Date: 1/10/24
+Description: a recursive equation builder that lets you substitute 
+constants and variables into equuation template strings.
+*/
 #include <iostream>
 #include <string>
 #include <vector>
