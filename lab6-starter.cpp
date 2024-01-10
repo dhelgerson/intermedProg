@@ -17,12 +17,12 @@ int main()
 {
     // vector of equation templates to test...
     vector<string> equations{
-        // "a + a",
+        "a + a",
         "((b - b)^2 + (b - b)^2)^1/2",
-        // "a + b",
-        // "ab + (b - b / a(a + a))",
-        // "(a ^ a) + (a - a + b)",
-        // "ab"
+        "a + b",
+        "ab + (b - b / a(a + a))",
+        "(a ^ a) + (a - a + b)",
+        "ab"
     };
 
     cout << "Welcome to the equation builder!" << endl << endl;
